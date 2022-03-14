@@ -1,5 +1,21 @@
 # 2022
 
+## Mar 3 2022
+
+Improved metrics UI and added documentation:
+
+- [Querying metrics](https://docs.uptrace.dev/guide/querying-metrics.html)
+- [Alerts and notifications](https://docs.uptrace.dev/guide/alerting.html)
+- [Timeseries metrics](https://opentelemetry.uptrace.dev/guide/metrics.html)
+
+## Feb 20 2022
+
+Added metrics monitoring and anomaly detection.
+
+## Feb 10 2022
+
+Improved project notification and anomaly detection settings for span groups.
+
 ## Jan 25 2022
 
 Added metrics dashboards for
